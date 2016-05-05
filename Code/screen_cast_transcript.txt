@@ -1,0 +1,11 @@
+1) Extract all the source files
+2) Create project using avr studio
+3) Add all the extracted source files to the created project root directory
+4) Now return to avr studio and right click on source file folder and add all the source files
+5) Similarly right cick on header file folder and add all the source files
+6) Now build the project
+7) To burn the code to firebird open the avr boot loader and select the hex file from the default folder and 
+select program form avr boot loader
+8) Now connect the Xbee module to the computer.
+9) Search and add the firebird Xbee receiver using XTCU utility
+10) Open the Xbee console and press 8 to start the bot
